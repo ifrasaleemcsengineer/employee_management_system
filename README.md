@@ -1,4 +1,4 @@
-Steps to Start the Project
+Steps to Start the Project:
 
 Step 1:
 Build and Start the Services
